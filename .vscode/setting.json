@@ -1,16 +1,12 @@
 {
   "workbench.startupEditor": "newUntitledFile",
   "editor.renderWhitespace": "all",
-  "editor.tabSize": 2,
   "files.autoSave": "onFocusChange",
   "workbench.editor.untitled.hint": "hidden",
   "workbench.iconTheme": "material-icon-theme",
   "editor.renderControlCharacters": true,
   "editor.formatOnSave": true,
   "window.zoomLevel": 1,
-  "[ruby]": {
-      "editor.defaultFormatter": "rebornix.ruby"
-  },
   "editor.suggestSelection": "first",
   "editor.fontFamily": "Cousine, Menlo, Monaco, 'Courier New', monospace",
   "editor.bracketPairColorization.enabled": true,
