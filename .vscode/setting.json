@@ -7,8 +7,6 @@
   "workbench.iconTheme": "material-icon-theme",
   "editor.renderControlCharacters": true,
   "editor.formatOnSave": true,
-  "clock.format": "yyyy-mm-dd hh:MM",
-  "clock.alignment": "Right",
   "window.zoomLevel": 1,
   "[ruby]": {
       "editor.defaultFormatter": "rebornix.ruby"
