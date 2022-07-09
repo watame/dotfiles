@@ -10,5 +10,7 @@
     "vintharas.learn-vim",
     "yzhang.markdown-all-in-one",
     "ms-azuretools.vscode-docker",
+    "aaron-bond.better-comments",
+    "shiesh.todo-tree",
   ]
 }
