@@ -12,5 +12,7 @@
     "ms-azuretools.vscode-docker",
     "aaron-bond.better-comments",
     "shiesh.todo-tree",
+    "mechatroner.rainbow-csv",
+    "nickdemayo.vscode-json-editor"
   ]
 }
