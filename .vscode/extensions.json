@@ -13,6 +13,8 @@
     "aaron-bond.better-comments",
     "shiesh.todo-tree",
     "mechatroner.rainbow-csv",
-    "nickdemayo.vscode-json-editor"
+    "nickdemayo.vscode-json-editor",
+    "dracula-theme.theme-dracula",
+    "withfig.fig",
   ]
 }
